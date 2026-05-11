@@ -9,7 +9,7 @@
         "vs-code",
         "codespace"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
         "vs-code-extensions",
         "atomic-learning-codespaces"
