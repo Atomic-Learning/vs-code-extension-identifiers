@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "VS Code: Extension Identifiers",
+    "slug": "vs-code-extension-identifiers",
+    "description": "An introduction to the identifier of an extension in VS Code.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "vs-code",
+        "codespace"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "vs-code-extensions",
+        "atomic-learning-codespaces"
     ],
     "related": [
-        "",
-        ""
     ]
 }
